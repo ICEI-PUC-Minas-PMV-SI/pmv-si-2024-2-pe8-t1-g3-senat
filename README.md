@@ -26,10 +26,10 @@ Estudo de negócio e de mercado da empresa SENAT
 # Planejamento
 
 Descrever o planejamento de cada etapa       
-ETAPA 1
-Definição da organização e estudo do negócio e seu mercado
-ETAPA 2
-Plano de Inteligência Competitiva (IC)
+*ETAPA 1
+*Definição da organização e estudo do negócio e seu mercado
+*ETAPA 2
+*Plano de Inteligência Competitiva (IC)
 ETAPA 3
 Desenvolvimento de alternativas de soluções de SI
 ETAPA 4
